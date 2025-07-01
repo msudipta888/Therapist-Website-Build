@@ -7,7 +7,7 @@ const About = () => {
     <div className="flex flex-col lg:flex-row-reverse items-center justify-center mt-12 gap-10 p-6 h-auto lg:h-[90vh]  text-gray-800">
       <div className="relative w-full lg:w-2/5 h-[550px] lg:h-full flex items-center justify-center">
         <Image
-          src="/images/doctor_selena.jpeg"
+          src="/images/doctor_serena.jpeg"
           alt="Dr. Serena Blake"
           width={500}
           height={500}

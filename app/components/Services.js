@@ -4,7 +4,7 @@ import Image from 'next/image';
 const cardData = [
   {
     title: 'Anxiety & Stress Management',
-    imgSrc: '/images/stress.jpeg',
+    imgSrc: '/images/Stress.jpeg',
     alt: 'stress',
     description: `Dr. Blake offers personalized anxiety and stress management plans that combine cognitive behavioral techniques, mindfulness exercises, and relaxation strategies. Through a safe and supportive space, she helps you identify triggers, challenge negative thought patterns, and develop healthy coping skills.`
   },
